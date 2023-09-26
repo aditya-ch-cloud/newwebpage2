@@ -5,11 +5,13 @@
     align-items: flex-start;
     background-color: rgb(68, 81, 92);
     color: white;
-    
+
 
 }    
 .footer div{
     width: 25%;
+
+    
 }
 .footer div h1{
     text-decoration: underline;
