@@ -1,0 +1,18 @@
+.element{
+    padding: 20px;
+    cursor: default;
+    max-width: 30%;
+    overflow-wrap: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.element h3{
+    color: red;
+}
+.image1{
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+}
